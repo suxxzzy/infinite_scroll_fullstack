@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "0785",
+    "database": "infscroll",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timestamp": false
+  }
+}
